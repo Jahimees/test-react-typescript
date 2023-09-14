@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Укладка",
+        "price": 123,
+        "time": "1 час 30 минут",
+        "idAccount": 14,
+        "idServiceSubtype": 5
+    },
+    {
+        "name": "Шлифовка",
+        "price": 100,
+        "time": "2 часа 30 минут",
+        "idAccount": 13,
+        "idServiceSubtype": 4
+    },
+    {
+        "name": "Маникюр",
+        "price": 500,
+        "time": "3 часа",
+        "idAccount": 5,
+        "idServiceSubtype": 1
+    },
+    {
+        "name": "Волноловка",
+        "price": 105,
+        "time": "30 минут",
+        "idAccount": 3,
+        "idServiceSubtype": 2
+    }
+]
